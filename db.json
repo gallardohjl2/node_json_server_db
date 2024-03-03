@@ -1,0 +1,52 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jose Luis",
+      "apellido": "Gallardo",
+      "materias": [
+        {
+          "nombre": "Base de Datos"
+        },
+        {
+          "nombre": "Programación"
+        },
+        {
+          "nombre": "Inteligencia de Negocios"
+        }
+      ],
+      "id": "63d7"
+    },
+    {
+      "apellido": "De la Vega",
+      "id": "7db0"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "rodriguez",
+      "promedio": 8.2,
+      "id": "fbf1"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Hernandez",
+      "promedio": 10,
+      "id": "0886"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "7fe7"
+    },
+    {
+      "nombre": "TypeScript desde Cero",
+      "duracion": 9,
+      "dificultad": "Alta",
+      "id": "0dea"
+    }
+  ]
+}
